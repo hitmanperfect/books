@@ -1,0 +1,3 @@
+/Users/lzq/CLionProjects/CplusNote/cmake-build-debug/CMakeFiles/CplusNote.dir
+/Users/lzq/CLionProjects/CplusNote/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lzq/CLionProjects/CplusNote/cmake-build-debug/CMakeFiles/rebuild_cache.dir
